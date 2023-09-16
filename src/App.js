@@ -3,8 +3,9 @@ import 'bootstrap/dist/css/bootstrap.css';
 function App() {
   return (
     <>
-    <div><Todo/></div>
-      
+      <div>
+        <Todo />
+      </div>
     </>
   );
 }
